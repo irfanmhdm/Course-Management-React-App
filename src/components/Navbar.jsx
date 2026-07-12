@@ -26,14 +26,14 @@ const Navbar = () => {
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
 
               <li className="nav-item">
-                <Link className="nav-link active" to="/view">
+                <Link className="nav-link active" to="/add">
                   
                   Add Courses
                 </Link>
               </li>
 
               <li className="nav-item">
-                <Link className="nav-link" to="/add">
+                <Link className="nav-link" to="/view">
                   View Courses
                 </Link>
               </li>
